@@ -173,14 +173,15 @@
         "warning.border": "#CCA7005A",
 
         "accents": [
-          "#0078D4",
-          "#FFD700",
-          "#DA70D6",
-          "#179FFF",
-          "#4EC9B0",
-          "#DCDCAA",
-          "#CE9178",
-          "#9CDCFE"
+          "#2979FF",
+          "#4CAF50",
+          "#E040FB",
+          "#00E5FF",
+          "#E53935",
+          "#76FF03",
+          "#7C4DFF",
+          "#FF9100",
+          "#FFEA00"
         ],
 
         "players": [
@@ -257,13 +258,13 @@
             "font_weight": 700
           },
           "enum": {
-            "color": "#4FC1FF"
+            "color": "#569CD6"
           },
           "function": {
             "color": "#DCDCAA"
           },
           "hint": {
-            "color": "#0078D4",
+            "color": "#9D9D9D",
             "font_style": "italic"
           },
           "keyword": {
