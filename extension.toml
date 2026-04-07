@@ -1,0 +1,9 @@
+id = "vscode-dark-modern"
+name = "VS Code Dark Modern"
+version = "0.1.0"
+schema_version = 1
+authors = ["Aaron Saunders"]
+description = "A faithful, pixel-perfect port of VS Code's built-in Dark Modern theme to Zed."
+
+[themes]
+"VS Code Dark Modern" = "themes/vscode-dark-modern.json"
